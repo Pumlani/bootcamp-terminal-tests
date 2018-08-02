@@ -19,5 +19,8 @@
     "url": "https://github.com/Pumlani/bootcamp-terminal-tests/issues"
   },
   "homepage": "https://github.com/Pumlani/bootcamp-terminal-tests#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
